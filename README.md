@@ -1,3 +1,4 @@
+источник: https://learn.microsoft.com/ru-ru/visualstudio/?view=visualstudio
 проект состоит из 2 частей.
 1) Создание службы WCF на Visual Studio 2022
 2) Создание приложения WinForms
