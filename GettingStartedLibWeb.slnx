@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GettingStartedLibWeb/GettingStartedLibWeb.csproj" />
+  <Project Path="GettingStartedLibWebWinForms/GettingStartedLibWebWinForms.csproj" />
+</Solution>
